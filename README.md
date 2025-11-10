@@ -31,9 +31,13 @@ Run the game:
 
 Hint: A programming language
 _____  ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥
+
+
 Enter a letter [a-z]:
-If you guess all letters → You won 🎉
-If you run out of attempts → You lost 💀
+
+- If you guess all letters → You won 🎉
+
+- If you run out of attempts → You lost 💀
 
 👥 Credits
 Project created by my group at CentraleSupélec as part of Coding Weeks 2025 – Python track.
