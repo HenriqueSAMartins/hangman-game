@@ -29,11 +29,6 @@ Run the game:
    python hangman.py
    ```
 
-📂 hangman-game/
-├── hangman.py      # Main game logic
-├── words.txt       # Word list and optional hints (format: word|hint)
-└── README.md       # Project description
-
 Hint: A programming language
 _____  ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥
 Enter a letter [a-z]:
